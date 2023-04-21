@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1682090610
+<REAPER_PROJECT 0.1 "6.68/win64" 1682090798
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,7 +18,7 @@
   PANMODE 3
   CURSOR 0
   ZOOM 31.99758579430998 0 0
-  VZOOMEX 31 83
+  VZOOMEX 7 89
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -197,6 +197,30 @@
   >
   <PROJBAY
   >
+  <TRACK {A7E25848-CEB7-45AE-940D-36C8B0CCFB6B}
+    NAME HINTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A7E25848-CEB7-45AE-940D-36C8B0CCFB6B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
   <TRACK {1F72F12B-3077-49B5-9C85-11FDC3CA3C42}
     NAME DRUMS
     PEAKCOL 16576
@@ -209,7 +233,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -241,53 +265,6 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
-      >
-    >
-  >
-  <TRACK {B6380BB7-6103-402E-BE83-77EDF032E1E8}
-    NAME GUITAR
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {B6380BB7-6103-402E-BE83-77EDF032E1E8}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4.44476594650205
-      SNAPOFFS 0
-      LENGTH 313.365
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {164D5E19-6812-417F-B28C-6A31220A2389}
-      IID 4
-      NAME "rage-against-the-machine--killing-in-the-name-other-D minor-88bpm-440hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {15E4C738-FC06-4F64-ADBE-1F79C2A361A5}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in\rage-against-the-machine--killing-in-the-name-other-D minor-88bpm-440hz.m4a"
       >
     >
   >
@@ -338,6 +315,30 @@
       >
     >
   >
+  <TRACK {E42C709A-D44F-45CF-93F5-2598A4A1FDB4}
+    NAME PARTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E42C709A-D44F-45CF-93F5-2598A4A1FDB4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
   <TRACK {745C4D22-8CE2-4B99-80B8-C8DF9925F8FA}
     NAME METRONOME
     PEAKCOL 16576
@@ -385,6 +386,53 @@
       >
     >
   >
+  <TRACK {B6380BB7-6103-402E-BE83-77EDF032E1E8}
+    NAME GUITAR
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B6380BB7-6103-402E-BE83-77EDF032E1E8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4.44476594650205
+      SNAPOFFS 0
+      LENGTH 313.365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {164D5E19-6812-417F-B28C-6A31220A2389}
+      IID 4
+      NAME "rage-against-the-machine--killing-in-the-name-other-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15E4C738-FC06-4F64-ADBE-1F79C2A361A5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-other-D minor-88bpm-440hz.m4a"
+      >
+    >
+  >
   <TRACK {529CDE4F-BBBF-4874-BC49-21D19BA47C3B}
     NAME VOX
     PEAKCOL 16576
@@ -394,7 +442,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     SEL 0
