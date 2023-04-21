@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1682096769
+<REAPER_PROJECT 0.1 "6.68/win64" 1682097143
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 181.75204031512294
-  ZOOM 4.24997499570374 196 0
+  CURSOR 0
+  ZOOM 3.01940617291305 0 0
   VZOOMEX 7 0
   USE_REC_CFG 0
   RECMODE 1
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 108 4 4
   PLAYRATE 1 1 0.25 4
-  SELECTION 13.18535578887981 21.74427096180457
-  SELECTION2 13.18535578887981 21.74427096180457
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -239,6 +239,602 @@
   MARKER 21 316.13499601977111 "" 1 33554431 1 R
   <PROJBAY
   >
+  <TRACK {1F72F12B-3077-49B5-9C85-11FDC3CA3C42}
+    NAME DRUMS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.39288064923275 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1F72F12B-3077-49B5-9C85-11FDC3CA3C42}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4.44476594650205
+      SNAPOFFS 0
+      LENGTH 8.74058984237776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 29409472 R
+      SEL 0
+      IGUID {2C78D572-B49B-4D7D-A4A5-49194611BA91}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D44683C-6354-49BB-B6B3-3F31433A2ED6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 13.18535578887981
+      SNAPOFFS 0
+      LENGTH 0.00031588938019
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.000316 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FB7163E-9F59-4763-BD35-4DCFB9E12311}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.24058984237776
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6F0477D-06C4-442F-AF34-4FB4F3721320}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 13.18567167826
+      SNAPOFFS 0
+      LENGTH 8.55859928354457
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 21004416 R
+      SEL 0
+      IGUID {B06B3CA8-D138-4CE2-8285-4A4D0BEC881F}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.24090573175795
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2DA4A5E-56D5-469C-BE45-2258A21DBB65}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 21.74427096180457
+      SNAPOFFS 0
+      LENGTH 0.00029949048843
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.000299 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FB7A6DE9-213A-48E6-A26C-618AFEB11CA4}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.79950501530252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E15C76D-1F95-49FD-9EB9-B8F049B873C5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 21.744570452293
+      SNAPOFFS 0
+      LENGTH 15.54123304164407
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25231232 R
+      SEL 0
+      IGUID {D8AD549B-F0D4-4FB8-90C9-B041F8AD5943}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.79980450579095
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C946C6C-55A1-44E0-BB33-062B8D001E65}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 37.28580349393707
+      SNAPOFFS 0
+      LENGTH 0.00027953332493
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.00028 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65E8F4CA-79F5-43E2-9803-81C0C597BCB1}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.34103754743502
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {025D8D88-81EE-4A74-9909-342ACC75F44F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 37.286083027262
+      SNAPOFFS 0
+      LENGTH 8.774492139834
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {1888A0D8-CCC7-436B-8672-B7A3DE2574AD}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.34131708075995
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DF9CA47-8D3C-433F-BD48-DA5FEF8D4DDE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 46.060575167096
+      SNAPOFFS 0
+      LENGTH 11.74925773475524
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842624 R
+      SEL 0
+      IGUID {82E1215D-309F-433B-B80D-3C0A207EBA08}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 42.11580922059395
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {757209E0-6086-4103-A36F-DE02D45158AF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 57.80983290185124
+      SNAPOFFS 0
+      LENGTH 23.56019136313111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {2FD501FE-7E23-426B-B75C-CFE6DC0E4477}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 53.86506695534919
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED51533B-2674-4CB4-A318-6A1FDAA8F598}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 81.37002426498235
+      SNAPOFFS 0
+      LENGTH 11.94970438902061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {8B960A9C-E313-4A24-B3CC-4C8CEFB31BBB}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 77.4252583184803
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E1F08C7-73C4-4542-9F75-3D8882E38D7B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 93.31972865400296
+      SNAPOFFS 0
+      LENGTH 10.68534856979196
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {5E57EE7F-473F-4F91-8393-1EB0D59794DF}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 89.37496270750091
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {625AD977-5255-4599-B6A8-6DF0F24F4A9D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 104.00507722379491
+      SNAPOFFS 0
+      LENGTH 20.72916072598339
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 21004543 R
+      SEL 0
+      IGUID {290604DD-1355-4F9D-8283-29F6D0DC8174}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 100.06031127729287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFD779B1-7F09-4640-9C89-8A304681F654}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 124.7342379497783
+      SNAPOFFS 0
+      LENGTH 21.83395057753651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {EE77CF78-EF6E-42BD-BD4A-B27A4C172D0A}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 120.78947200327626
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1771289E-DB90-4122-BC44-14BA43ECD32A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 146.56818852731482
+      SNAPOFFS 0
+      LENGTH 23.36232711796936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {AA229B84-C82E-452A-BB46-76513BE0431F}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 142.62342258081276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA887A32-508E-43DC-89BB-6B495DC31E24}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 169.93051564528417
+      SNAPOFFS 0
+      LENGTH 11.82152466983877
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {E6E8977D-897F-4102-AB7F-9C4FAC0E3B63}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 165.98574969878212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {703A7810-90C0-4592-BBD4-236DB0F5615C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 181.75204031512294
+      SNAPOFFS 0
+      LENGTH 10.76101849892783
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {7F0343E5-1B4A-4681-8553-95270A9E9287}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 177.80727436862088
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38084507-C923-461D-A4F6-200D5F87AE51}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 192.51305881405077
+      SNAPOFFS 0
+      LENGTH 20.83582712256955
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {43C463C4-69F0-432A-984C-9AA0149FB56C}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 188.56829286754871
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32D75903-3CAE-445A-815A-948696935EB4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 213.34888593662032
+      SNAPOFFS 0
+      LENGTH 21.60001539277658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {A060AE9C-CE16-4DD2-831C-599336226CE7}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 209.40411999011826
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55FADDE8-184D-418A-8B4B-A9E2CE96A507}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 234.9489013293969
+      SNAPOFFS 0
+      LENGTH 21.63031597382542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 R
+      SEL 0
+      IGUID {A9F47B23-073F-462E-9114-5DF5F5C252A5}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 231.00413538289484
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E7BE697-3D10-4669-9C47-402C1FF50E7B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 256.57921730322232
+      SNAPOFFS 0
+      LENGTH 22.63165472368541
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {6D24F355-2677-4BF4-BFBE-F2F44A4FA36F}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 252.63445135672026
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93BA897D-E388-4D46-86CF-5DBBE1324AE7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 279.21087202690774
+      SNAPOFFS 0
+      LENGTH 21.18196890510444
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25198720 R
+      SEL 0
+      IGUID {4F37336F-8FA9-42BC-B8D4-7DA149B48EE4}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 275.26610608040568
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {541666E5-466A-49AB-AC4D-F3DAAE3C8700}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 300.39284093201218
+      SNAPOFFS 0
+      LENGTH 10.52437448744286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777216 R
+      SEL 0
+      IGUID {04773EF0-B21F-491E-8B64-2EBED49D0456}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 296.44807498551012
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AB8DFBD-657F-4630-820B-B4AAAE7EF6B3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 310.91721541945503
+      SNAPOFFS 0
+      LENGTH 5.21778060031608
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 1
+      IGUID {158CE82B-8A57-4FE3-89A5-3D611366B26C}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 306.97244947295297
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7236D9A-CE48-4EF6-9DDA-86D459F0E967}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 316.13499601977111
+      SNAPOFFS 0
+      LENGTH 1.67476992673093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00419517-032E-476A-B64B-BCA26743DCC9}
+      IID 2
+      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 312.19023007326905
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EA63A2D-8CAC-403D-B790-57229C1FD5E4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
+      >
+    >
+  >
   <TRACK {A7E25848-CEB7-45AE-940D-36C8B0CCFB6B}
     NAME HINTS
     PEAKCOL 16576
@@ -251,7 +847,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -791,53 +1387,6 @@
         TRACKSEL 0
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 0.25 1296 54 2544 957 0 0 0 2 1 0 0 0 0 0.5 0 0 1 64
-      >
-    >
-  >
-  <TRACK {1F72F12B-3077-49B5-9C85-11FDC3CA3C42}
-    NAME DRUMS
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1.39288064923275 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {1F72F12B-3077-49B5-9C85-11FDC3CA3C42}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4.44476594650205
-      SNAPOFFS 0
-      LENGTH 313.365
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2C78D572-B49B-4D7D-A4A5-49194611BA91}
-      IID 2
-      NAME "rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.5
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4D44683C-6354-49BB-B6B3-3F31433A2ED6}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in\rage-against-the-machine--killing-in-the-name-drums-D minor-88bpm-440hz.m4a"
       >
     >
   >
